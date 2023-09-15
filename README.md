@@ -4,6 +4,6 @@ Download RBXM file
 |
 Open Roblox Studio
 |
-Right click on workspace and click "Insert from file"
+Right click on StarterGui and click "Insert from file"
 |
 Choose the RBXM file
