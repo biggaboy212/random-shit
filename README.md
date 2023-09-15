@@ -1,4 +1,4 @@
-## OS sign in remake
+## Windows + ChromeOS sign in remake (RBX Studio version)
 ###### How to use
 Download RBXM file
 |
